@@ -2,7 +2,9 @@
 
     session_start();
 
-    include("../include/header.php");
+    
+
+    include("../include/header.php")
 
 ?>
 
